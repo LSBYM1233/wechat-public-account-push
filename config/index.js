@@ -108,16 +108,16 @@ export const config = {
       customizedDateList: ["keyword": "birth_day", date: "2004-12-02"]
     },
     {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
+      name: "自己",
+      id: "oocpj6pQgRoV4l69VrUY0bET3C8U",
+      useTemplateId: "早安",
+      province: "贵州",
+      city: "贵阳",
+      horoscopeDate: '07-15',
+      horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
+      festivals: ["*生日", "name": "自己", "year": "2003", "date": "07-15"],
+      customizedDateList: ["birth_day", date: "2003-07-15"]
     },
     {
       name: "老婆3",

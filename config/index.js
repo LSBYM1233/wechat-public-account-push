@@ -59,9 +59,9 @@ export const config = {
    */
   USERS: ["oocpj6uHskjjo5b9g42zAQ-bGZLM","oocpj6pQgRoV4l69VrUY0bET3C8U"]
 
-    {"鬼妹仔"
+    {
       // 想要发送的人的名字
-      name: "老婆0",
+      name: "鬼妹仔",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "5CKWWFSLtx9F_HJTFU02qowUWFnGtKFs-WVBz3iCkqU",
       // 你想对他发送的模板消息的模板ID

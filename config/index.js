@@ -57,7 +57,7 @@ export const config = {
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔
    */
-  USERS: ["oocpj6uHskjjo5b9g42zAQ-bGZLM","oocpj6pQgRoV4l69VrUY0bET3C8U"]
+  USERS: [
 
     {
       // 想要发送的人的名字

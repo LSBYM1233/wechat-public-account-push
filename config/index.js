@@ -104,8 +104,8 @@ export const config = {
       horoscopeDate: '12-02',
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: ["*生日", "name": "二蛋", "year": "2004", "date": "12-02"],
-      customizedDateList: ["keyword": "birth_day", date: "2004-12-02"]
+      festivals: []
+      customizedDateList: []
     },
     {
       name: "自己",
@@ -116,8 +116,8 @@ export const config = {
       horoscopeDate: '07-15',
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: ["*生日", "name": "自己", "year": "2003", "date": "07-15"],
-      customizedDateList: ["birth_day", date: "2003-07-15"]
+      festivals: []
+      customizedDateList: []
     },
     {
       name: "老婆3",

@@ -77,7 +77,7 @@ export const config = {
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "https://wangxinleo.cn",
       // 专属节日提醒，如果你在这里填写了节日提醒，就不会执行FESTIVALS的提醒了, 和FESTIVALS的配置方法相同，可以往下查看，我这里就不重复写了
-      festivals: [ 
+      festivals: [ "*生日", "name": "鬼妹仔", "year": "2004", "date": "09-14"]
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {"type": "*生日", "name": "老婆", "year": "1996", "date": "09-09"},
         {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03"},
@@ -104,7 +104,7 @@ export const config = {
       horoscopeDate: '12-02',
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: []
+      festivals: ["*生日", "name": "二蛋", "year": "2004", "date": "12-02"]
       customizedDateList: []
     },
     {
@@ -116,7 +116,7 @@ export const config = {
       horoscopeDate: '07-15',
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: []
+      festivals: ["*生日", "name": "老舍不养猫", "year": "2003", "date": "07-15"]
       customizedDateList: []
     },
     {
